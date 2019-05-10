@@ -1,3 +1,3 @@
 # ConvertCartPriceToNumber
 
-### UFT project
+### UFT project. Originally created by v14.52
