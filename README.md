@@ -1,1 +1,1 @@
-"# UFT-ConvertCartPriceToNumber" 
+# UFT-ConvertCartPriceToNumber
